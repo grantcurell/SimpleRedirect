@@ -1,12 +1,8 @@
 __author__ = "Grant Curell"
 __copyright__ = "Do what you want with it"
-__license__ = "GPLv3"
+__license__ = "Unlicense"
 __version__ = "1.0.0"
 __maintainer__ = "Grant Curell"
-
-"""
-An OpenFlow 1.3 TrafficShaper implementation
-"""
 
 import json
 import sys
